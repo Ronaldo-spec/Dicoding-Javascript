@@ -1,0 +1,20 @@
+{
+  "name": "backend-dicoding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "state.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronaldo-spec/Dicoding-Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronaldo-spec/Dicoding-Javascript/issues"
+  },
+  "homepage": "https://github.com/Ronaldo-spec/Dicoding-Javascript#readme",
+  "dependencies": {}
+}
